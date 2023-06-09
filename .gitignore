@@ -1,0 +1,13 @@
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# MS Visual Studio Files
+*.vcxproj.filters
+*.vcxproj.user
+*.vs
